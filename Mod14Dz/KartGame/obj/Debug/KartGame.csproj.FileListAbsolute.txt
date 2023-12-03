@@ -1,0 +1,12 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod14Dz\KartGame\bin\Debug\KartGame.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod14Dz\KartGame\bin\Debug\KartGame.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod14Dz\KartGame\obj\Debug\KartGame.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod14Dz\KartGame\obj\Debug\KartGame.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod14Dz\KartGame\obj\Debug\KartGame.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod14Dz\KartGame\obj\Debug\KartGame.pdb
+C:\Users\Muraqer\Downloads\Intership-main (4)\Intership-main\Mod14Dz\KartGame\bin\Debug\KartGame.dll
+C:\Users\Muraqer\Downloads\Intership-main (4)\Intership-main\Mod14Dz\KartGame\bin\Debug\KartGame.pdb
+C:\Users\Muraqer\Downloads\Intership-main (4)\Intership-main\Mod14Dz\KartGame\obj\Debug\KartGame.csproj.AssemblyReference.cache
+C:\Users\Muraqer\Downloads\Intership-main (4)\Intership-main\Mod14Dz\KartGame\obj\Debug\KartGame.csproj.CoreCompileInputs.cache
+C:\Users\Muraqer\Downloads\Intership-main (4)\Intership-main\Mod14Dz\KartGame\obj\Debug\KartGame.dll
+C:\Users\Muraqer\Downloads\Intership-main (4)\Intership-main\Mod14Dz\KartGame\obj\Debug\KartGame.pdb

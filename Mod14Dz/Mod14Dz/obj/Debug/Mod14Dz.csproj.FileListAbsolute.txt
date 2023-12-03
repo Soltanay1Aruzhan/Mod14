@@ -1,0 +1,20 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod14Dz\Mod14Dz\bin\Debug\Mod14Dz.exe.config
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod14Dz\Mod14Dz\bin\Debug\Mod14Dz.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod14Dz\Mod14Dz\bin\Debug\Mod14Dz.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod14Dz\Mod14Dz\bin\Debug\KartGame.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod14Dz\Mod14Dz\bin\Debug\KartGame.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod14Dz\Mod14Dz\obj\Debug\Mod14Dz.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod14Dz\Mod14Dz\obj\Debug\Mod14Dz.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod14Dz\Mod14Dz\obj\Debug\Mod14Dz.csproj.CopyComplete
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod14Dz\Mod14Dz\obj\Debug\Mod14Dz.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod14Dz\Mod14Dz\obj\Debug\Mod14Dz.pdb
+C:\Users\Muraqer\Downloads\Intership-main (4)\Intership-main\Mod14Dz\Mod14Dz\bin\Debug\Mod14Dz.exe.config
+C:\Users\Muraqer\Downloads\Intership-main (4)\Intership-main\Mod14Dz\Mod14Dz\bin\Debug\Mod14Dz.exe
+C:\Users\Muraqer\Downloads\Intership-main (4)\Intership-main\Mod14Dz\Mod14Dz\bin\Debug\Mod14Dz.pdb
+C:\Users\Muraqer\Downloads\Intership-main (4)\Intership-main\Mod14Dz\Mod14Dz\bin\Debug\KartGame.dll
+C:\Users\Muraqer\Downloads\Intership-main (4)\Intership-main\Mod14Dz\Mod14Dz\bin\Debug\KartGame.pdb
+C:\Users\Muraqer\Downloads\Intership-main (4)\Intership-main\Mod14Dz\Mod14Dz\obj\Debug\Mod14Dz.csproj.AssemblyReference.cache
+C:\Users\Muraqer\Downloads\Intership-main (4)\Intership-main\Mod14Dz\Mod14Dz\obj\Debug\Mod14Dz.csproj.CoreCompileInputs.cache
+C:\Users\Muraqer\Downloads\Intership-main (4)\Intership-main\Mod14Dz\Mod14Dz\obj\Debug\Mod14Dz.csproj.CopyComplete
+C:\Users\Muraqer\Downloads\Intership-main (4)\Intership-main\Mod14Dz\Mod14Dz\obj\Debug\Mod14Dz.exe
+C:\Users\Muraqer\Downloads\Intership-main (4)\Intership-main\Mod14Dz\Mod14Dz\obj\Debug\Mod14Dz.pdb
